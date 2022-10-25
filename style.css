@@ -7,7 +7,7 @@ header{
     height: 70px;
     background-size: 300px;
     background-color: rgb(36, 137, 238);
-    background-image: url(../newspaper-article/img/pattern.png);
+    background-image: url(../html-css-booleaner/img/pattern.png);
     
 }
 
@@ -88,7 +88,7 @@ ul{
     color: gray;
 }
 .end1{
-    background-image: url(../newspaper-article/img/monitor.jpg);
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
     background-size: contain;
     width: 400px;
     height: 300px;
@@ -101,7 +101,7 @@ ul{
 }
 
 .end2{
-    background-image: url(../newspaper-article/img/graph.jpg);
+    background-image: url(../html-css-booleaner/img/graph.jpg);
     background-size: contain;
     width: 400px;
     height: 300px;
