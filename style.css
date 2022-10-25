@@ -1,0 +1,117 @@
+body{
+    width: 60%;
+    margin: auto;
+}
+
+header{
+    height: 70px;
+    background-size: 300px;
+    background-color: rgb(36, 137, 238);
+    background-image: url(../newspaper-article/img/pattern.png);
+    
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 2px;
+}
+
+
+h1{
+    margin-bottom: 0px;
+}
+    
+.int{
+    margin-bottom: 20px;
+}
+
+.stile1{
+color: rgb(79, 175, 175);
+}
+
+.data{
+    font-size: small;
+}
+
+.evid{
+    background-color: yellow;
+}
+
+.add{
+    width: 400px;
+    height: auto;
+}
+
+.add1{
+    width: 340px;
+    height: auto;
+}
+
+.caption{
+    font-style: italic;
+    font-size: small;
+}
+
+ul{
+    padding-inline-start: 0;
+    list-style-position: inside;
+}
+
+.paragraph1{
+    margin-top: 20px;
+}
+
+.st{
+    height: 50%;
+
+    border-collapse: collapse;
+    
+
+}
+
+.tt{
+    color: white;
+}
+.st1{
+    border: 0px;
+    background-color: rgb(43, 133, 223)
+    } 
+
+
+.st2{
+    background-color: rgba(0, 191, 255, 0.26);
+}
+
+.end{
+    color: gray;
+}
+.end1{
+    background-image: url(../newspaper-article/img/monitor.jpg);
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+    text-align:left;
+    font-weight: 200;
+    font-size: x-large;
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+}
+
+.end2{
+    background-image: url(../newspaper-article/img/graph.jpg);
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+    text-align:left;
+    font-weight: 200;
+    font-size: x-large;
+    color: white;
+    padding: 10px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
